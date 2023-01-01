@@ -10,7 +10,9 @@ In this tutorial you will learn basics of:
   6. Select data with Where, order by and limit clause
   
  
-  Please view the detailed video tutorial at: 
+  Please view the detailed video tutorial at:  
+  https://youtu.be/eYJY2vDu3M4
+  
   
   ### Read tutorial on Modern Web technologies on our blog: http://programmerblog.net
   
